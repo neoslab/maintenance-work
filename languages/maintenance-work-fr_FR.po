@@ -1,0 +1,113 @@
+# Copyright (C) 2025 NeosLab
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Maintenance Work 2.2.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/maintenance-work\n"
+"Last-Translator: NeosLab <support@neoslab.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-20T05:14:31+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: maintenance-work\n"
+
+#. Plugin Name of the plugin
+#: maintenance-work.php
+#: admin/class-maintenance-work-admin.php:74
+msgid "Maintenance Work"
+msgstr "Travaux de maintenance"
+
+#. Plugin URI of the plugin
+#: maintenance-work.php
+msgid "https://wordpress.org/plugins/maintenance-work/"
+msgstr "https://wordpress.org/plugins/maintenance-work/"
+
+#. Description of the plugin
+#: maintenance-work.php
+msgid "Add a maintenance page to your website that lets visitors know your page is down for maintenance and allowing to work on beside of this."
+msgstr "Ajoutez une page de maintenance à votre site pour informer les visiteurs que votre site est en maintenance tout en vous permettant de continuer à travailler dessus."
+
+#. Author of the plugin
+#: maintenance-work.php
+msgid "NeosLab"
+msgstr "NeosLab"
+
+#. Author URI of the plugin
+#: maintenance-work.php
+msgid "https://neoslab.com"
+msgstr "https://neoslab.com"
+
+#: admin/class-maintenance-work-admin.php:86
+msgid "Settings"
+msgstr "Paramètres"
+
+#: admin/partials/maintenance-work-admin-options.php:4
+msgid "Your settings have been successfully updated."
+msgstr "Vos paramètres ont été mis à jour avec succès."
+
+#: admin/partials/maintenance-work-admin-options.php:10
+msgid "The maintenance page status is not valid !!"
+msgstr "Le statut de la page de maintenance n'est pas valide !!"
+
+#: admin/partials/maintenance-work-admin-options.php:14
+msgid "The maintenance page title is not valid !!"
+msgstr "Le titre de la page de maintenance n'est pas valide !!"
+
+#: admin/partials/maintenance-work-admin-options.php:18
+msgid "The maintenance page description is not valid !!"
+msgstr "La description de la page de maintenance n'est pas valide !!"
+
+#: admin/partials/maintenance-work-admin-options.php:22
+msgid "An unknown error occured !!"
+msgstr "Une erreur inconnue est survenue !!"
+
+#: admin/partials/maintenance-work-admin-options.php:42
+msgid "Your maintenance page is currently switched-off ! In order to switch it on, please use the below form."
+msgstr "Votre page de maintenance est actuellement désactivée ! Pour l'activer, veuillez utiliser le formulaire ci-dessous."
+
+#: admin/partials/maintenance-work-admin-options.php:47
+msgid "Your maintenance page is currently switched-on ! In order to switch it off, please use the below form."
+msgstr "Votre page de maintenance est actuellement activée ! Pour la désactiver, veuillez utiliser le formulaire ci-dessous."
+
+#: admin/partials/maintenance-work-admin-options.php:56
+msgid "Maintenance Mode"
+msgstr "Mode maintenance"
+
+#: admin/partials/maintenance-work-admin-options.php:64
+msgid "Do you want to switch your website under maintenance mode ?"
+msgstr "Souhaitez-vous activer le mode maintenance sur votre site ?"
+
+#: admin/partials/maintenance-work-admin-options.php:69
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#: admin/partials/maintenance-work-admin-options.php:70
+msgid "Enter the page title"
+msgstr "Entrez le titre de la page"
+
+#: admin/partials/maintenance-work-admin-options.php:71
+msgid "Enter the page title as you want it to appear on the maintenance page displayed to your visitors."
+msgstr "Saisissez le titre tel que vous souhaitez qu'il apparaisse sur la page de maintenance visible par vos visiteurs."
+
+#: admin/partials/maintenance-work-admin-options.php:75
+msgid "Page Description"
+msgstr "Description de la page"
+
+#: admin/partials/maintenance-work-admin-options.php:76
+msgid "Enter the page description"
+msgstr "Entrez la description de la page"
+
+#: admin/partials/maintenance-work-admin-options.php:77
+msgid "Enter the description as you want it to appear on the maintenance page displayed to your visitors."
+msgstr "Saisissez la description telle que vous souhaitez qu'elle apparaisse sur la page de maintenance visible par vos visiteurs."
+
+#: admin/partials/maintenance-work-admin-options.php:81
+msgid "Update Settings"
+msgstr "Mettre à jour les paramètres"
+
+#: public/templates/page.php:26
+msgid "Refresh Page"
+msgstr "Rafraîchir la page"
