@@ -2,8 +2,8 @@
 Contributors: NeosLab
 Tags: maintenance mode, wordpress maintenance mode, wordpress maintenance, under maintenance, maintenance
 Requires at least: 4.9
-Tested up to: 6.9.0
-Stable tag: 2.3.4
+Tested up to: 6.9.1
+Stable tag: 2.3.5
 License URI: https://raw.githubusercontent.com/neoslab/maintenance-work/refs/heads/main/LICENSE
 
 Add a maintenance page to your website that lets visitors know your page is down for maintenance while allowing you to work on the background.
@@ -23,6 +23,15 @@ Add a maintenance page to your website that lets visitors know your page is down
 1. A general view of the plugin "options" page.
 
 == Changelog ==
+
+= 2.3.5 (2026-03-03) =
+* Fontawesome update
+* Updated ES translation
+* Updated FR translation
+* Updated ID translation
+* Updated IT translation
+* Updated PT translation
+* Code revision and optimization
 
 = 2.3.4 (2025-12-29) =
 * Code revision and optimization
