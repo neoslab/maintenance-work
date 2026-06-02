@@ -29,6 +29,28 @@ Add a maintenance page to your website that lets visitors know your page is down
 
 ## Changelog
 
+### 2.3.6 (2026-06-02)
+
+- Fontawesome update
+- Added logo input field
+- Added copyright name input field
+- Added copyright title input field
+- Added copyright link input field
+- Added powered name input field
+- Added powered title input field
+- Added powered link input field
+- Added Discord URL input field
+- Added Facebook URL input field
+- Added Github URL input field
+- Added Instagram URL input field
+- Added Linkedin URL input field
+- Added Mastodon URL input field
+- Added Telegram URL input field
+- Added TikTok URL input field
+- Added Twitter URL input field
+- Added Youtube URL input field
+- Code revision and optimization
+
 ### 2.3.5 (2026-03-03)
 
 - Fontawesome update
