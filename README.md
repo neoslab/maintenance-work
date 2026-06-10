@@ -29,6 +29,11 @@ Add a maintenance page to your website that lets visitors know your page is down
 
 ## Changelog
 
+### 2.3.7 (2026-06-10)
+
+- Added site name as fallback if logo not defined
+- Code revision and optimization
+
 ### 2.3.6 (2026-06-02)
 
 - Fontawesome update
